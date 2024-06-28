@@ -10,7 +10,12 @@ Modelagem e diagramação da representação em UML e Código no que se refere a
 
 ## 💡 Sobre o projeto
 Com base no vídeo de lançamento do iPhone, elabore em uma ferramenta de UML de sua preferência a diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musicial,  Aparelho Telefônico e Navegador na Internet. Em seguida crie as classes e interfaces no formato de arquivos .java
- <br>
+ <br> <br>
+
+## 📚 Estrutura
+O diagrama se encontra em <a href="https://github.com/GustavoYM01/desafio-uml-dio/blob/main/Diagrama/Desafio%20UML%20DIO.png">acessar diagrama</a>
+<br>
+Os códigos .java estão em <a href="https://github.com/GustavoYM01/desafio-uml-dio/tree/main/app/src/main/java/desafio">acessar códigos</a>
  
 ### Pré-Requisitos
 
